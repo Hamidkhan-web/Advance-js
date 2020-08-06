@@ -17,3 +17,4 @@ const premik = {name:"smart dude", phone:456789};//propartir modda kono obgact k
 console.log(premik.gf);
 let fun = undefined;
 console.log(fun);
+
